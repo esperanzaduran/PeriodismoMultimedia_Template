@@ -13,7 +13,7 @@ Univesidad de Granada
 
 **Resumen** : El proyecto consta de un universo transmedia en el que Julia, una joven de Granada, se fija en que su abuela tiene cierta obsesión con una fotografía en particular. Decide investigar sobre ella y descubre que fue tomada durante la liberación del campo de concentración de Mauthausen en 1945. Dispuesta a descubrir qué hace ese momento histórico entre los recuerdos de su familia, se sumerge en una aventura en la que se acabarán revelando sus verdaderas raíces y la vida de sus antepasados.
 
-**logotipo** :  ________
+**logotipo** :  ![Logo Yermólov](https://user-images.githubusercontent.com/82603705/115437649-b7afef80-a20c-11eb-9fbb-bbd87921be71.png)
 
 **Slogan** ¿Cuánto se puede descubrir del pasado de alguien con una sola fotografía?
 
