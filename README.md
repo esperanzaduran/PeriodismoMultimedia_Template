@@ -53,7 +53,7 @@ Actividades realizadas mediante Trello https://trello.com/c/mGKhhiQP
 
 **Necesidad/oportunidad** 
 
-**Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+**Motivación de la propuesta** El objetivo de este proyecto, además del entretenimiento del usuario, es conseguir la participación activa de los mismos para así lograr que estén involucrados en la experiencia interactiva. La novedad se encuentra en que es una ficción inspirada en hechos históricos que se presenta al usuario en forma de thriller. 
 
 **Personas/Usuarios**  Jóvenes de habla hispana de 18-34 años. Usuarios habituales de redes sociales como Twitter, Facebook e Instagram.
 
