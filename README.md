@@ -28,7 +28,7 @@ Univesidad de Granada
 
 *  :octocat: https://github.com/esperanzaduran/Proyecto-multimedia/blob/master/README.md
 * Hilo de Twitter 
-* Scape Room
+* Escape Room
 * Facebook
 * Página web
 
@@ -55,14 +55,11 @@ Actividades realizadas mediante Trello https://trello.com/c/mGKhhiQP
 
 **Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+**Personas/Usuarios**  Jóvenes de habla hispana de 18-34 años. Usuarios habituales de redes sociales como Twitter, Facebook e Instagram.
 
 **Estilo de narración**  (...indica como se hace uso de los medios)  
 
-(ejemplos/alternativas) 
-* documental interactivo 
-* videojuego 
-* ... 
+Partiremos de un hilo de Twitter durante el que se pide la colaboración de los participantes animándoles a aportar sus ideas para avanzar en la investigación, tras la cual se obtiene un link a un escape room interactivo. Se plantea la búsqueda de las pistas que llevarán a encontrar a la familia. Primero, se encontrará la mitad de una fotografía y luego la otra mitad, juntas aportaran la información necesaria para seguir avanzando. Finalmente, la última plataforma que se usará será la página web. En ella se encontrarán todos los contenidos utilizados para darle forma a esta narrativa transmedia.
 
 
 
