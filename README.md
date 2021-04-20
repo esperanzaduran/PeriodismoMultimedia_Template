@@ -1,4 +1,4 @@
-## (otro nombre)  
+## YERMÓLOV  
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -9,29 +9,30 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : Yermólov
 
-**Autor(es)** ______________
+**Autor(es)** Nuria García y Esperanza Durán
 
 **Resumen** : _________
 
 **logotipo** :  ________
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** ¿Cuánto se puede descubrir del pasado de alguien con una sola fotografía?
 
-**Hashtag**  ___
+**Hashtag**  #Yermólov
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 2020
+**Fecha** : 2021
 
 **Medios** (donde se tiene presencia): 
 
 
 *  :octocat: (github url) 
-* Twitter 
-* ... 
-
+* Hilo de Twitter 
+* Scape Room
+* Facebook
+* Página web
 
 
 --- 
@@ -42,13 +43,14 @@ Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia 
 
 ### Etapa 1: Ideación de proyecto 
 
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
+Actividades realizadas mediante Trello https://trello.com/c/mGKhhiQP
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-* @LadyDistopia (link) ...¿ por qué ?
-* (...)
-* 
+* https://twitter.com/nelagarnela/status/1031480480401686528?s=08
+* https://twitter.com/tdetortilla/status/1352973628242092032?s=24
+* https://historia.nationalgeographic.com.es/a/9161-presos-espanoles-campos-concentracion-nazis_15328
+* https://www.amicalravensbruck.org/portfolio-items/fanjul-camin-olvido/
 
 
 **Necesidad/oportunidad** 
