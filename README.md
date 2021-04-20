@@ -27,9 +27,8 @@ Univesidad de Granada
 
 
 *  :octocat: https://github.com/esperanzaduran/Proyecto-multimedia/blob/master/README.md
-* Hilo de Twitter 
+* [Hilo de Twitter](https://twitter.com/juliagarme)
 * Escape Room
-* Facebook
 * Página web
 
 
