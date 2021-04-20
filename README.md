@@ -45,7 +45,8 @@ Actividades realizadas mediante Trello https://trello.com/c/mGKhhiQP
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
 
-* [@nelagarnela] (https://twitter.com/nelagarnela/status/1031480480401686528?s=08)
+* [@nelagarnela](https://twitter.com/nelagarnela/status/1031480480401686528?s=08)
+* https://twitter.com/nelagarnela/status/1031480480401686528?s=08
 * https://twitter.com/tdetortilla/status/1352973628242092032?s=24
 * https://historia.nationalgeographic.com.es/a/9161-presos-espanoles-campos-concentracion-nazis_15328
 * https://www.amicalravensbruck.org/portfolio-items/fanjul-camin-olvido/
