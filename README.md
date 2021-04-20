@@ -13,7 +13,7 @@ Univesidad de Granada
 
 **Autor(es)** Nuria García y Esperanza Durán
 
-**Resumen** : _________
+**Resumen** : El proyecto consta de un universo transmedia en el que Julia, una joven de Granada, se fija en que su abuela tiene cierta obsesión con una fotografía en particular. Decide investigar sobre ella y descubre que fue tomada durante la liberación del campo de concentración de Mauthausen en 1945. Dispuesta a descubrir qué hace ese momento histórico entre los recuerdos de su familia, se sumerge en una aventura en la que se acabarán revelando sus verdaderas raíces y la vida de sus antepasados.
 
 **logotipo** :  ________
 
@@ -28,7 +28,7 @@ Univesidad de Granada
 **Medios** (donde se tiene presencia): 
 
 
-*  :octocat: (github url) 
+*  :octocat: https://github.com/esperanzaduran/Proyecto-multimedia/blob/master/README.md
 * Hilo de Twitter 
 * Scape Room
 * Facebook
