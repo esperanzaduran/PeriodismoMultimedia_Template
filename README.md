@@ -51,7 +51,7 @@ Actividades realizadas mediante Trello https://trello.com/c/mGKhhiQP
 * [@nelagarnela](https://twitter.com/nelagarnela/status/1031480480401686528?s=08)
 * [@nagoresuarez](https://twitter.com/NagoreSuarez/status/1241039938642161666)
 * [Españoles en campos de concentración](https://historia.nationalgeographic.com.es/a/9161-presos-espanoles-campos-concentracion-nazis_15328)
-* [Historias de presos](https://www.amicalravensbruck.org/portfolio-items/fanjul-camin-olvido/)
+* [Vidas de los presos](https://www.amicalravensbruck.org/portfolio-items/fanjul-camin-olvido/)
 
 
 **Necesidad/oportunidad** 
