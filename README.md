@@ -70,6 +70,13 @@ Partiremos de un hilo de Twitter durante el que se pide la colaboración de los 
 
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
+Hemos desarrollado un prototipo del escape room interactivo con Protopie. El proyecto consiste en una habitación con múltiples objetos relacionados con la historia de nuestros protagonistas. El usuario, al pasar el ratón por encima de los elementos de nuestro escenario, podrá ir descubriendo cúales de ellos se iluminan y le llevan a la pista siguiente.
+Este primer prototipo puede consultarse * [aquí](https://cloud.protopie.io/pr/b76737c8)
+
+<img width="634" alt="Captura de pantalla 2021-05-07 a las 15 35 26" src="https://user-images.githubusercontent.com/82603705/117457779-de2e9400-af49-11eb-9f16-24606de262dc.png">
+
+
+
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 
 * redes sociales (...) 
