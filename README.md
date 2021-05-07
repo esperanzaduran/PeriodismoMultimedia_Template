@@ -104,7 +104,7 @@ Este segundo prototipo se puede ver [aquí.](https://cloud.protopie.io/pr/b76737
 ### Conclusiones y trabajo futuro
 
 
-* **Grado de consecución del proyecto**: todos los elementos narrativos de nuestro proyecto han sido elaborados, junto con la ideación de la experiencia transmedia del usuario. Además, tenemos bien definida La estética y los elementos de diseño gráfico. En cuanto a la creación de los diferentes elememtos multimedia, los prototipos se limitan a mostrar una primera idea de lo que nos gustaría hacer, no están completamente desarrollados.
+* **Grado de consecución del proyecto**: todos los elementos narrativos de nuestro proyecto han sido elaborados, junto con la ideación de la experiencia transmedia del usuario. Además, tenemos bien definida la estética y los elementos de diseño gráfico. En cuanto a la creación de los diferentes componentes multimedia, los prototipos se limitan a mostrar una primera idea de lo que nos gustaría hacer, no están completamente desarrollados.
 
 * **Problemas identificados**: El primer obstáculo fue lograr decidir cuál sería la plataforma más indicada para lo que queríamos lograr. Finalmente, gracias a que estuvimos aconsejadas, llevamos a cabo nuestros prototipos con Protopie. La segunda dificultad que se nos ha planteado ha sido técnica, el limitado conocimiento del funcionamiento del programa así como algunos errores a la hora de realizar nuestras actividades. En concreto, para el escaperoom, el elemento luminoso al pasar el ratón por encima de la imagen no funciona correctamente. 
 
